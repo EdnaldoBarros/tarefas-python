@@ -3,7 +3,7 @@
 ```markdown
 # 📝 Sistema de Tarefas em Python (Linha de Comando)
 
-Este é um projeto simples de linha de comando feito em **Python**, onde o usuário pode **adicionar**, **listar** e **remover tarefas**. O sistema é ideal para iniciantes que estão aprendendo lógica de programação, listas e estruturas de controle.
+Este é um projeto simples de linha de comando feito em "Python", onde o usuário pode "adicionar", "listar" e "remover tarefas". O sistema é ideal para iniciantes que estão aprendendo lógica de programação, listas e estruturas de controle.
 
 ---
 
@@ -54,7 +54,7 @@ Escolha uma opção (1-4):
 
 ## 👨‍💻 Autor
 
-- **Ednaldo Barros da Silva**
+- Ednaldo Barros da Silva
 - GitHub: [@EdnaldoBarros](https://github.com/EdnaldoBarros)
 - LinkedIn: [Ednaldo no LinkedIn](https://www.linkedin.com/in/ednaldo-barros-da-silva-0209019b)
 
